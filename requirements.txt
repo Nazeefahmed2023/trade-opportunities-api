@@ -1,0 +1,11 @@
+# Python package dependencies
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-dotenv>=1.0.0
+google-generativeai>=0.8.0
+ddgs>=1.0.0
+pydantic>=2.10.0
+pydantic-settings>=2.7.0
+python-multipart>=0.0.6
+httpx>=0.26.0
+requests>=2.31.0
